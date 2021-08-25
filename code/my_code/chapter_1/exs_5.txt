@@ -1,0 +1,1 @@
+gcc -Wall -lm -o getting-started getting-started.c
